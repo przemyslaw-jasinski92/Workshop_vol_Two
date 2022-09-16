@@ -50,6 +50,7 @@ public class User {
     }
 
     public String toString(){
-        return id + " " + userName + " " + email + " " + password;
+        return ("User: " + id + " : nick: " + userName + ", mail: " + email + ", password: " + password + "\n");
     }
+
 }
