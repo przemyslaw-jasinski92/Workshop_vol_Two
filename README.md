@@ -1,5 +1,5 @@
 # Workshop vol. Two
-Next workshop on course Coderslab - DAO.
+Next workshop on course Coderslab - DAO.\n
 I created program, which helps user to modify database from IDE:
 - DbUtli (for creating connection to database in MySQL)
 - User (keeping data for each row from database)
